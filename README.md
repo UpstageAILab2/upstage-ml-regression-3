@@ -2,7 +2,7 @@
 
 ## Team
 
-| ![이승현](https://avatars.githubusercontent.com/u/66935871?v=4) | ![한민규](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박언선](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이광우](https://avatars.githubusercontent.com/u/156163982?v=4) | ![정혜윤](https://avatars.githubusercontent.com/u/118159352?v=4) |
+| ![이승현](https://avatars.githubusercontent.com/u/66935871?v=4) | ![한민규](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/MangooH.png) | ![박언선](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/eonseon.png) | ![이광우](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/kwangwoo.png) | ![정혜윤](https://avatars.githubusercontent.com/u/118159352?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [이승현](https://github.com/EffortLEE1008)             |            [한민규](https://github.com/MangooH)             |            [박언선](https://github.com/eonpark)             |            [이광우](https://github.com/UpstageAILab)             |            [정혜윤](https://github.com/Hye-yoonJeong)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
@@ -59,7 +59,8 @@
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
+- [publicLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/publicLB.png)
+- [privateLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/privateLB.png)
 - 1st in Public LB 14691.1409 → 3rd in Private LB 12614.1573
 
 ### Presentation
@@ -74,5 +75,5 @@
 
 ### Reference
 
-- 배성완, & 유정석. (2018). 기계 학습을 이용한 공동주택가격 추정: 서울 강남구를 사례로.
+- [배성완, & 유정석. (2018). 기계 학습을 이용한 공동주택가격 추정: 서울 강남구를 사례로.](http://www.kreaa.or.kr/data/vol24-1/24_01_05.pdf)
 
