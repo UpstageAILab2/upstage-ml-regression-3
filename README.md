@@ -11,12 +11,13 @@
 
 ### Overview
 
-- _Write competition information_
+- To predict house price of Seoul apartments
+- Task : Regression
 
 ### Timeline
 
 - March 20, 2024 - Start Date
-- April 1, 2024 - Final submission deadline (7pm)
+- April 2, 2024 - Final submission deadline (1pm)
 
 ### Evaluation
 
@@ -32,7 +33,9 @@
 
 ### Dataset overview
 
-- _Explain using data_
+- Given Dataset : 국토교통부 실거래가, 서울시 공공주택 아파트 정보
+- Train Data : 2007-01-01 ~ 2023-06-30, size (1188822, 52)
+- Test Data : 2023-07-01 ~ 2023-09-26, size (9272, 51)
 
 ### EDA
 
@@ -44,7 +47,7 @@
 
 ## 4. Modeling
 
-### Model descrition
+### Model description
 
 - _Write model information and why your select this model_
 
@@ -57,7 +60,7 @@
 ### Leader Board
 
 - _Insert Leader Board Capture_
-- _Write rank and score_
+- 1st in Public LB 14691.1409 → 3rd in Private LB 12614.1573
 
 ### Presentation
 
