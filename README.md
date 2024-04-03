@@ -59,8 +59,8 @@
 
 ### Leader Board
 
-- [publicLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/publicLB.png)
-- [privateLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/privateLB.png)
+- ![publicLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/publicLB.png)
+- ![privateLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/privateLB.png)
 - 1st in Public LB 14691.1409 → 3rd in Private LB 12614.1573
 
 ### Presentation
