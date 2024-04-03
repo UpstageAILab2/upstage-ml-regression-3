@@ -5,7 +5,7 @@
 | ![이승현](https://avatars.githubusercontent.com/u/66935871?v=4) | ![한민규](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/MangooH.png) | ![박언선](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/eonseon.png) | ![이광우](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/kwangwoo.png) | ![정혜윤](https://avatars.githubusercontent.com/u/118159352?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [이승현](https://github.com/EffortLEE1008)             |            [한민규](https://github.com/MangooH)             |            [박언선](https://github.com/eonpark)             |            [이광우](https://github.com/UpstageAILab)             |            [정혜윤](https://github.com/Hye-yoonJeong)             |
-|                            팀장, Outlier Detection                             |                            Baseline 구축, Feature Engineering, Modeling                             |                            Feature Engineering, Modeling                             |                            EDA                         |                            Feature Engineering, Modeling                             |
+|                            팀장, Outlier Detection                             |                            Baseline 구축, Feature Engineering, Modeling                             |                            Feature Engineering, Modeling                             |                            EDA                             |                            professional knowledge 를 기반으로한 EDA 및 인사이트 공유                             |
 
 ## 1. Competiton Info
 
@@ -65,7 +65,14 @@ yrs_diff = 계약년도 - 건축년도
 
 ### Modeling Process
 
-- _Write model train and test process with capture_
+- [top 0.3% on a Kaggle competition](https://www.kaggle.com/code/lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition) 를 참조한 blending 및 stacking 시도
+$\rightarrow$ LGBM 단독으로 사용하는 것이 가장 좋은 성능을 내는 것으로 판단. (이후 Optuna 를 통한 hyperparameter 구성)
+
+- Feature Importance 와 Permutation Impotance 를 기반으로 한 Forward Selection 방법으로 모델의 Feature 를 구성함.
+  ![image](https://github.com/UpstageAILab2/upstage-ml-regression-3/assets/88866306/aaafd8a8-0407-4c98-baab-ebe14ff79535)
+  ![image](https://github.com/UpstageAILab2/upstage-ml-regression-3/assets/88866306/bc43ab7f-428a-4ede-8c04-fedcf1c43ea1)
+
+- Evaluation Metric 특성상 이상치(가격이 비싼 값)을 예측하는 모델의 필요성에 따라 전용면적(135$m^2$ 이상) 및 특정 동(`'반포동','한남동','청담동','압구정동','삼성동','도곡동','성수동1가'`)단위를 추출한 데이터를 통해 모델을 학습. 해당 모델은 Baseline 모델이 비싸게 예측한 값을 대체
 
 ## 5. Result
 
@@ -90,4 +97,3 @@ yrs_diff = 계약년도 - 건축년도
 ### Reference
 
 - [배성완, & 유정석. (2018). 기계 학습을 이용한 공동주택가격 추정: 서울 강남구를 사례로.](http://www.kreaa.or.kr/data/vol24-1/24_01_05.pdf)
-
