@@ -39,7 +39,11 @@
 
 ### EDA
 
-- _Describe your EDA process and step-by-step conclusion_
+- 구별, 동별 실거래가 평균
+![구별평균가](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/yoon/plots/%EA%B5%AC%EB%B3%84%ED%8F%89%EA%B7%A0%EA%B0%80.png)
+![동별평균가](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/yoon/plots/%EB%8F%99%EB%B3%84%ED%8F%89%EA%B7%A0%EA%B0%80.png)
+
+
 
 ### Feature engineering
 
