@@ -64,14 +64,15 @@
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+- [[패스트캠퍼스] Upstage AI Lab 2기_그룹 스터디_3조_ML대회_final.pdf ](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/docs/pdf/%5B%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%5D%20Upstage%20AI%20Lab%202%EA%B8%B0_%EA%B7%B8%EB%A3%B9%20%EC%8A%A4%ED%84%B0%EB%94%94_3%EC%A1%B0_ML%EB%8C%80%ED%9A%8C_final.pdf)
 
 ## etc
 
 ### Meeting Log
 
-- _Insert your meeting log link like Notion or Google Docs_
+- [Meeting log](https://www.notion.so/f6317c9bc94c436db7c85008be72feb7?v=35c93e65be114867af23a0365ff9e1a0)
 
 ### Reference
 
-- _Insert related reference_
+- 배성완, & 유정석. (2018). 기계 학습을 이용한 공동주택가격 추정: 서울 강남구를 사례로.
+
