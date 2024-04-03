@@ -49,7 +49,8 @@
 
 ### Feature engineering
 
--계약년도와 건축년도 차이에 따른 실거래가 평균
+- 계약년도와 건축년도 차이에 따른 실거래가 평균
+yrs_diff = 계약년도 - 건축년도
 ![yrs_diff](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/yrs_diff.png)
 
 ## 4. Modeling
