@@ -45,13 +45,12 @@
 - 구별, 동별 실거래가 분포
 ![구별실거래가분포](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/%EC%9E%90%EC%B9%98%EA%B5%AC%EB%B3%84%EA%B0%80%EA%B2%A9%EB%B6%84%ED%8F%AC.png)
 ![동별실거래가분포](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/%EB%8F%99%EB%B3%84%EA%B0%80%EA%B2%A9%EB%B6%84%ED%8F%AC.png)
--계약년도와 건축년도 차이에 따른 실거래가 평균
-![yrs_diff](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/yrs_diff.png)
 
 
 ### Feature engineering
 
-- _Describe feature engineering process_
+-계약년도와 건축년도 차이에 따른 실거래가 평균
+![yrs_diff](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/yrs_diff.png)
 
 ## 4. Modeling
 
@@ -67,8 +66,10 @@
 
 ### Leader Board
 
-- ![publicLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/publicLB.png)
-- ![privateLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/privateLB.png)
+- Public LB
+![publicLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/publicLB.png)
+- Private LB
+![privateLB](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/privateLB.png)
 - 1st in Public LB 14691.1409 → 3rd in Private LB 12614.1573
 
 ### Presentation
