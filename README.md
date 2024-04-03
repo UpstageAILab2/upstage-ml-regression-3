@@ -5,7 +5,7 @@
 | ![이승현](https://avatars.githubusercontent.com/u/66935871?v=4) | ![한민규](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/MangooH.png) | ![박언선](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/eonseon.png) | ![이광우](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/kwangwoo.png) | ![정혜윤](https://avatars.githubusercontent.com/u/118159352?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [이승현](https://github.com/EffortLEE1008)             |            [한민규](https://github.com/MangooH)             |            [박언선](https://github.com/eonpark)             |            [이광우](https://github.com/UpstageAILab)             |            [정혜윤](https://github.com/Hye-yoonJeong)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|                            팀장, 이상치 탐색                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 1. Competiton Info
 
@@ -52,12 +52,15 @@
 - 계약년도와 건축년도 차이에 따른 실거래가 평균
 yrs_diff = 계약년도 - 건축년도
 ![yrs_diff](https://github.com/UpstageAILab2/upstage-ml-regression-3/blob/main/imgs/yrs_diff.png)
+- 구나 동에 대한 정보를 단순 명목형 변수가 아닌 ordinal 변수라고 판단하여 단순하게 label encoding을 적용하기 보다는 평균가의 순서로 encoding함
 
 ## 4. Modeling
 
 ### Model description
 
-- _Write model information and why your select this model_
+- 개별적으로 XGBoost와 LGBM에 대해 테스트해 본 후 베이스라인은 LGBM으로 통일
+- Dataset Split 방식은 Hold out random, Hold out time split, Time series split 등을 시도
+
 
 ### Modeling Process
 
