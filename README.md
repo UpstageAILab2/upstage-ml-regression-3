@@ -27,7 +27,8 @@
 
 ### Directory
 
-- _Insert your directory structure_
+![image](https://github.com/UpstageAILab2/upstage-ml-regression-3/assets/88866306/c89c5c51-8c99-4707-a915-05b7dd0d1610)
+- baseline 을 기반으로한 개인 작업
 
 ## 3. Data descrption
 
