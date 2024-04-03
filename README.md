@@ -2,7 +2,7 @@
 
 ## Team
 
-| ![이승현](https://avatars.githubusercontent.com/u/66935871?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![이승현](https://avatars.githubusercontent.com/u/66935871?v=4) | ![한민규](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박언선](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이광우](https://avatars.githubusercontent.com/u/156163982?v=4) | ![정혜윤](https://avatars.githubusercontent.com/u/118159352?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [이승현](https://github.com/EffortLEE1008)             |            [한민규](https://github.com/MangooH)             |            [박언선](https://github.com/eonpark)             |            [이광우](https://github.com/UpstageAILab)             |            [정혜윤](https://github.com/Hye-yoonJeong)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
