@@ -1,8 +1,8 @@
-# Title (Please modify the title)
+# Upstage AI Lab 2기 ML Competition 3조 Report
 
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![박패캠](![alt text](image.png)) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [이승현](https://github.com/UpstageAILab)             |            [한민규](https://github.com/UpstageAILab)             |            [박언선](https://github.com/UpstageAILab)             |            [이광우](https://github.com/UpstageAILab)             |            [정혜윤](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
@@ -11,7 +11,7 @@
 
 ### Overview
 
-- To predict house price of Seoul apartments
+- House Price Prediction of Seoul apartments
 - Task : Regression
 
 ### Timeline
